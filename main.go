@@ -6,6 +6,7 @@ import (
 	"encoding/csv"
 	"fmt"
 	"io"
+	"log"
 	"net"
 	"net/http"
 	"os"
@@ -14,6 +15,8 @@ import (
 	"sync"
 	"time"
 )
+
+var logger = log.New(os.Stdout, "", log.Ldate|log.Ltime|log.Lshortfile)
 
 const ianaTLDListURL = "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"
 
@@ -68,7 +71,7 @@ func exportToCsv(baseDomain string, results chan ScanResult) {
 	fileName := fmt.Sprintf("%s.csv", baseDomain)
 	file, err := os.Create(fileName)
 	if err != nil {
-		fmt.Printf("Failed to create file: %v\n", err)
+		logger.Printf("Failed to create file: %v\n", err)
 		return
 	}
 	defer file.Close()
@@ -80,13 +83,13 @@ func exportToCsv(baseDomain string, results chan ScanResult) {
 
 	for res := range results {
 		if res.Status == "NXDOMAIN" {
-			fmt.Printf("Domain %s does not exist\n", res.Domain)
+			logger.Printf("Domain %s does not exist\n", res.Domain)
 			continue // skip non-existent domains
 		}
 		writer.Write([]string{res.Domain, res.IP, res.Status, res.Subject, res.Issuer, res.ValidTo})
 	}
 
-	fmt.Printf("Results exported to %s\n", fileName)
+	logger.Printf("Results exported to %s\n", fileName)
 }
 
 func fetchTLDs() ([]string, error) {
