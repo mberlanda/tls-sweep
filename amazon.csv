@@ -1,0 +1,611 @@
+Domain,IP,Status,Subject,Issuer,ValidTo
+amazon.accountant,3.71.139.153,TLS ERROR,,,
+amazon.ac,3.126.5.188,TLS ERROR,,,
+amazon.accountants,3.126.5.188,TLS ERROR,,,
+amazon.actor,18.185.24.46,TLS ERROR,,,
+amazon.academy,18.185.24.46,TLS ERROR,,,
+amazon.ad,3.126.5.188,TLS ERROR,,,
+amazon.ae,52.95.113.159,OK,www.amazon.ae,Amazon RSA 2048 M01,2025-08-12
+amazon.agency,3.71.139.153,TLS ERROR,,,
+amazon.airforce,3.71.139.153,TLS ERROR,,,
+amazon.af,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.al,3.71.139.153,TLS ERROR,,,
+amazon.ag,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.alsace,3.71.139.153,TLS ERROR,,,
+amazon.ai,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.apartments,18.185.24.46,TLS ERROR,,,
+amazon.amsterdam,3.126.5.188,TLS ERROR,,,
+amazon.am,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.associates,3.71.139.153,TLS ERROR,,,
+amazon.army,3.126.5.188,TLS ERROR,,,
+amazon.archi,18.185.24.46,TLS ERROR,,,
+amazon.art,3.126.5.188,TLS ERROR,,,
+amazon.as,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.at,52.95.116.34,OK,www.amazon.at,Amazon RSA 2048 M01,2025-10-11
+amazon.auction,3.126.5.188,TLS ERROR,,,
+amazon.attorney,3.71.139.153,TLS ERROR,,,
+amazon.audio,18.185.24.46,TLS ERROR,,,
+amazon.auto,18.185.24.46,TLS ERROR,,,
+amazon.autos,18.185.24.46,TLS ERROR,,,
+amazon.aw,18.185.24.46,TLS ERROR,,,
+amazon.barcelona,18.185.24.46,TLS ERROR,,,
+amazon.ba,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.baby,18.185.24.46,TLS ERROR,,,
+amazon.az,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.bar,3.71.139.153,TLS ERROR,,,
+amazon.band,3.126.5.188,TLS ERROR,,,
+amazon.bayern,18.185.24.46,TLS ERROR,,,
+amazon.bargains,18.185.24.46,TLS ERROR,,,
+amazon.basketball,3.71.139.153,TLS ERROR,,,
+amazon.be,5.100.156.0,OK,tls.automattic.com,E5,2025-06-24
+amazon.beer,18.185.24.46,TLS ERROR,,,
+amazon.beauty,3.126.5.188,TLS ERROR,,,
+amazon.berlin,18.185.24.46,TLS ERROR,,,
+amazon.best,3.71.139.153,TLS ERROR,,,
+amazon.bike,3.126.5.188,TLS ERROR,,,
+amazon.bet,3.126.5.188,TLS ERROR,,,
+amazon.bf,18.185.24.46,TLS ERROR,,,
+amazon.bb,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.black,3.126.5.188,TLS ERROR,,,
+amazon.bid,3.126.5.188,TLS ERROR,,,
+amazon.bible,18.185.24.46,TLS ERROR,,,
+amazon.bg,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.bingo,18.185.24.46,TLS ERROR,,,
+amazon.bio,3.126.5.188,TLS ERROR,,,
+amazon.bj,3.126.5.188,TLS ERROR,,,
+amazon.blackfriday,3.71.139.153,TLS ERROR,,,
+amazon.boats,18.185.24.46,TLS ERROR,,,
+amazon.bi,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.bo,3.71.139.153,TLS ERROR,,,
+amazon.biz,52.223.38.30,OK,ammzon.com,Amazon RSA 2048 M02,2025-11-25
+amazon.blog,3.33.131.74,OK,amazon.blog,Amazon RSA 2048 M02,2026-04-15
+amazon.bot,3.71.139.153,TLS ERROR,,,
+amazon.boston,3.126.5.188,TLS ERROR,,,
+amazon.boutique,3.126.5.188,TLS ERROR,,,
+amazon.build,3.71.139.153,TLS ERROR,,,
+amazon.buzz,64.190.63.222,OK,amazon.buzz,Encryption Everywhere DV TLS CA - G2,2026-04-20
+amazon.cafe,3.126.5.188,TLS ERROR,,,
+amazon.bzh,18.185.24.46,TLS ERROR,,,
+amazon.bs,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.ca,54.239.19.238,OK,*.bx.peg.a2z.com,Amazon RSA 2048 M01,2026-02-03
+amazon.camp,3.71.139.153,TLS ERROR,,,
+amazon.capital,3.71.139.153,TLS ERROR,,,
+amazon.capetown,18.185.24.46,TLS ERROR,,,
+amazon.car,18.185.24.46,TLS ERROR,,,
+amazon.career,18.185.24.46,TLS ERROR,,,
+amazon.careers,3.126.5.188,TLS ERROR,,,
+amazon.cars,18.185.24.46,TLS ERROR,,,
+amazon.casa,3.71.139.153,TLS ERROR,,,
+amazon.case,3.126.5.188,TLS ERROR,,,
+amazon.by,93.125.99.144,OK,www.amazon.by,R11,2025-07-11
+amazon.brussels,3.71.139.153,TLS ERROR,,,
+amazon.catering,18.185.24.46,TLS ERROR,,,
+amazon.casino,3.71.139.153,TLS ERROR,,,
+amazon.bz,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.center,3.126.5.188,TLS ERROR,,,
+amazon.cf,18.185.24.46,TLS ERROR,,,
+amazon.charity,18.185.24.46,TLS ERROR,,,
+amazon.cc,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.christmas,18.185.24.46,TLS ERROR,,,
+amazon.chat,3.126.5.188,TLS ERROR,,,
+amazon.cg,52.223.38.30,OK,www.amazonmembers.com,Amazon RSA 2048 M02,2025-11-25
+amazon.cheap,3.126.5.188,TLS ERROR,,,
+amazon.church,3.126.5.188,TLS ERROR,,,
+amazon.ci,3.126.5.188,TLS ERROR,,,
+amazon.claims,18.185.24.46,TLS ERROR,,,
+amazon.city,3.71.139.153,TLS ERROR,,,
+amazon.cl,209.54.183.116,OK,www.amazon.cl,Amazon RSA 2048 M01,2025-10-23
+amazon.clinic,52.0.30.222,OK,amazon.clinic,Amazon RSA 2048 M02,2026-06-06
+amazon.clothing,18.185.24.46,TLS ERROR,,,
+amazon.cloud,3.126.5.188,TLS ERROR,,,
+amazon.coach,18.185.24.46,TLS ERROR,,,
+amazon.cm,3.126.5.188,TLS ERROR,,,
+amazon.ch,67.220.224.228,OK,www.amazon.ch,Amazon RSA 2048 M01,2025-09-20
+amazon.cologne,3.126.5.188,TLS ERROR,,,
+amazon.college,18.185.24.46,TLS ERROR,,,
+amazon.community,18.185.24.46,TLS ERROR,,,
+amazon.com,54.239.28.85,OK,*.peg.a2z.com,DigiCert Global CA G2,2025-07-27
+amazon.cash,3.71.139.153,TLS ERROR,,,
+amazon.builders,3.71.139.153,TLS ERROR,,,
+amazon.company,3.71.139.153,TLS ERROR,,,
+amazon.compare,18.185.24.46,TLS ERROR,,,
+amazon.computer,18.185.24.46,TLS ERROR,,,
+amazon.condos,3.126.5.188,TLS ERROR,,,
+amazon.au,3.33.139.32,TLS ERROR,,,
+amazon.construction,3.71.139.153,TLS ERROR,,,
+amazon.consulting,3.126.5.188,TLS ERROR,,,
+amazon.codes,3.71.139.153,TLS ERROR,,,
+amazon.cool,18.185.24.46,TLS ERROR,,,
+amazon.country,3.126.5.188,TLS ERROR,,,
+amazon.courses,3.126.5.188,TLS ERROR,,,
+amazon.cn,54.222.60.218,OK,www.amazon.cn,DigiCert Global CA G2,2026-02-12
+amazon.coupons,18.185.24.46,TLS ERROR,,,
+amazon.credit,3.71.139.153,TLS ERROR,,,
+amazon.creditcard,3.71.139.153,TLS ERROR,,,
+amazon.cr,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.cricket,3.126.5.188,TLS ERROR,,,
+amazon.cruises,3.71.139.153,TLS ERROR,,,
+amazon.cleaning,18.185.24.46,TLS ERROR,,,
+amazon.click,18.185.24.46,TLS ERROR,,,
+amazon.blue,3.33.139.32,TLS ERROR,,,
+amazon.cv,3.71.139.153,TLS ERROR,,,
+amazon.cz,3.33.230.83,OK,www.amazon.cz,Amazon RSA 2048 M03,2026-05-08
+amazon.contractors,3.126.5.188,TLS ERROR,,,
+amazon.cooking,18.185.24.46,TLS ERROR,,,
+amazon.dance,18.185.24.46,TLS ERROR,,,
+amazon.cx,35.71.184.76,OK,www.amazonmembers.com,Amazon RSA 2048 M02,2025-11-25
+amazon.date,3.126.5.188,TLS ERROR,,,
+amazon.dating,3.71.139.153,TLS ERROR,,,
+amazon.deal,18.185.24.46,TLS ERROR,,,
+amazon.dealer,3.126.5.188,TLS ERROR,,,
+amazon.de,54.239.39.102,OK,*.peg.a2z.com,DigiCert Global CA G2,2025-07-27
+amazon.cab,3.33.139.32,TLS ERROR,,,
+amazon.deals,3.126.5.188,TLS ERROR,,,
+amazon.democrat,3.71.139.153,TLS ERROR,,,
+amazon.design,52.222.144.23,OK,amazon-design.production.k1.amazon.brightspot.cloud,Amazon RSA 2048 M03,2025-11-20
+amazon.dentist,3.71.139.153,TLS ERROR,,,
+amazon.desi,18.185.24.46,TLS ERROR,,,
+amazon.diet,3.71.139.153,TLS ERROR,,,
+amazon.camera,3.33.139.32,TLS ERROR,,,
+amazon.digital,18.185.24.46,TLS ERROR,,,
+amazon.cymru,18.185.24.46,TLS ERROR,,,
+amazon.directory,18.185.24.46,TLS ERROR,,,
+amazon.discount,3.126.5.188,TLS ERROR,,,
+amazon.dk,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.domains,3.126.5.188,TLS ERROR,,,
+amazon.dog,3.71.139.153,TLS ERROR,,,
+amazon.download,3.126.5.188,TLS ERROR,,,
+amazon.dental,18.185.24.46,TLS ERROR,,,
+amazon.do,15.197.140.28,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.durban,18.185.24.46,TLS ERROR,,,
+amazon.ceo,3.33.139.32,TLS ERROR,,,
+amazon.diamonds,3.126.5.188,TLS ERROR,,,
+amazon.direct,18.185.24.46,TLS ERROR,,,
+amazon.dz,3.71.139.153,TLS ERROR,,,
+amazon.education,3.126.5.188,TLS ERROR,,,
+amazon.earth,18.185.24.46,TLS ERROR,,,
+amazon.email,18.185.24.46,TLS ERROR,,,
+amazon.eg,52.95.121.166,OK,www.amazon.eg,Amazon RSA 2048 M01,2025-08-11
+amazon.energy,3.71.139.153,TLS ERROR,,,
+amazon.ee,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.engineer,18.185.24.46,TLS ERROR,,,
+amazon.degree,3.71.139.153,TLS ERROR,,,
+amazon.delivery,3.71.139.153,TLS ERROR,,,
+amazon.club,3.33.139.32,TLS ERROR,,,
+amazon.es,52.95.116.112,OK,*.bw.peg.a2z.com,Amazon RSA 2048 M01,2025-08-05
+amazon.exchange,18.185.24.46,TLS ERROR,,,
+amazon.exposed,3.126.5.188,TLS ERROR,,,
+amazon.express,3.71.139.153,TLS ERROR,,,
+amazon.co,72.21.206.80,TLS ERROR,,,
+amazon.coffee,3.33.139.32,TLS ERROR,,,
+amazon.fail,18.185.24.46,TLS ERROR,,,
+amazon.faith,3.126.5.188,TLS ERROR,,,
+amazon.cyou,3.126.5.188,TLS ERROR,,,
+amazon.fans,18.185.24.46,TLS ERROR,,,
+amazon.farm,3.126.5.188,TLS ERROR,,,
+amazon.feedback,3.126.5.188,TLS ERROR,,,
+amazon.engineering,18.185.24.46,TLS ERROR,,,
+amazon.film,3.71.139.153,TLS ERROR,,,
+amazon.financial,3.126.5.188,TLS ERROR,,,
+amazon.fi,3.33.230.83,OK,www.amazon.cz,Amazon RSA 2048 M03,2026-05-08
+amazon.finance,18.185.24.46,TLS ERROR,,,
+amazon.eu,54.239.39.207,OK,www.amazon.eu,Amazon RSA 2048 M01,2026-03-11
+amazon.fishing,3.71.139.153,TLS ERROR,,,
+amazon.fish,18.185.24.46,TLS ERROR,,,
+amazon.fit,18.185.24.46,TLS ERROR,,,
+amazon.fitness,3.126.5.188,TLS ERROR,,,
+amazon.football,18.185.24.46,TLS ERROR,,,
+amazon.fashion,3.71.139.153,TLS ERROR,,,
+amazon.enterprises,3.71.139.153,TLS ERROR,,,
+amazon.fm,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.forsale,3.126.5.188,TLS ERROR,,,
+amazon.free,3.126.5.188,TLS ERROR,,,
+amazon.foundation,3.71.139.153,TLS ERROR,,,
+amazon.fr,198.18.2.14,TLS ERROR,,,
+amazon.ec,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.frl,18.185.24.46,TLS ERROR,,,
+amazon.fund,3.126.5.188,TLS ERROR,,,
+amazon.flowers,3.71.139.153,TLS ERROR,,,
+amazon.family,18.185.24.46,TLS ERROR,,,
+amazon.flights,18.185.24.46,TLS ERROR,,,
+amazon.furniture,3.71.139.153,TLS ERROR,,,
+amazon.futbol,18.185.24.46,TLS ERROR,,,
+amazon.garden,3.126.5.188,TLS ERROR,,,
+amazon.gent,3.126.5.188,TLS ERROR,,,
+amazon.gf,18.185.24.46,TLS ERROR,,,
+amazon.gdn,3.71.139.153,TLS ERROR,,,
+amazon.events,3.71.139.153,TLS ERROR,,,
+amazon.gd,15.197.140.28,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.gg,15.197.156.59,OK,swiship.in,Amazon RSA 2048 M02,2026-05-07
+amazon.glass,18.185.24.46,TLS ERROR,,,
+amazon.gift,3.71.139.153,TLS ERROR,,,
+amazon.gl,3.33.172.98,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.global,3.71.139.153,TLS ERROR,,,
+amazon.fyi,3.126.5.188,TLS ERROR,,,
+amazon.gm,3.126.5.188,TLS ERROR,,,
+amazon.gmbh,18.185.24.46,TLS ERROR,,,
+amazon.gold,18.185.24.46,TLS ERROR,,,
+amazon.golf,3.71.139.153,TLS ERROR,,,
+amazon.gop,18.185.24.46,TLS ERROR,,,
+amazon.expert,3.126.5.188,TLS ERROR,,,
+amazon.ge,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.gratis,3.71.139.153,TLS ERROR,,,
+amazon.gr,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.gifts,3.126.5.188,TLS ERROR,,,
+amazon.giving,3.71.139.153,TLS ERROR,,,
+amazon.gripe,3.126.5.188,TLS ERROR,,,
+amazon.gp,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.gs,15.197.156.59,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.equipment,3.33.139.32,TLS ERROR,,,
+amazon.guide,3.126.5.188,TLS ERROR,,,
+amazon.hamburg,3.71.139.153,TLS ERROR,,,
+amazon.gw,18.185.24.46,TLS ERROR,,,
+amazon.hair,18.185.24.46,TLS ERROR,,,
+amazon.estate,3.33.139.32,TLS ERROR,,,
+amazon.haus,3.71.139.153,TLS ERROR,,,
+amazon.healthcare,18.185.24.46,TLS ERROR,,,
+amazon.help,3.126.5.188,TLS ERROR,,,
+amazon.hk,3.71.139.153,TLS ERROR,,,
+amazon.hiv,18.185.24.46,TLS ERROR,,,
+amazon.hiphop,18.185.24.46,TLS ERROR,,,
+amazon.gives,3.126.5.188,TLS ERROR,,,
+amazon.holdings,3.126.5.188,TLS ERROR,,,
+amazon.hockey,18.185.24.46,TLS ERROR,,,
+amazon.host,18.185.24.46,TLS ERROR,,,
+amazon.guitars,3.126.5.188,TLS ERROR,,,
+amazon.hn,15.197.140.28,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.how,3.71.139.153,TLS ERROR,,,
+amazon.hot,3.71.139.153,TLS ERROR,,,
+amazon.hu,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.florist,3.33.139.32,TLS ERROR,,,
+amazon.ht,3.33.147.88,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.ie,67.220.224.187,OK,www.amazon.ie,Amazon RSA 2048 M01,2025-10-24
+amazon.gt,3.126.5.188,TLS ERROR,,,
+amazon.fo,3.33.139.32,TLS ERROR,,,
+amazon.im,3.33.172.98,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.guru,3.71.139.153,TLS ERROR,,,
+amazon.horse,3.126.5.188,TLS ERROR,,,
+amazon.gy,104.237.143.51,OK,amazon.gy,R11,2025-06-18
+amazon.hosting,3.126.5.188,TLS ERROR,,,
+amazon.immo,3.126.5.188,TLS ERROR,,,
+amazon.immobilien,3.71.139.153,TLS ERROR,,,
+amazon.in,52.95.116.115,OK,*.cy.peg.a2z.com,Amazon RSA 2048 M01,2025-08-20
+amazon.industries,3.126.5.188,TLS ERROR,,,
+amazon.hr,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.ink,18.185.24.46,TLS ERROR,,,
+amazon.institute,3.126.5.188,TLS ERROR,,,
+amazon.insure,18.185.24.46,TLS ERROR,,,
+amazon.info,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.iq,18.197.88.72,OK,webmail.amazon.iq,R10,2025-07-27
+amazon.ir,185.55.227.143,OK,amazon.ir,R11,2025-06-28
+amazon.is,99.83.246.91,OK,amazon.is,Amazon RSA 2048 M03,2025-11-11
+amazon.it,52.95.116.114,OK,*.cw.peg.a2z.com,Amazon RSA 2048 M01,2025-08-02
+amazon.gallery,3.33.139.32,TLS ERROR,,,
+amazon.jetzt,3.126.5.188,TLS ERROR,,,
+amazon.jewelry,3.71.139.153,TLS ERROR,,,
+amazon.je,15.197.156.59,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.jobs,54.239.39.201,OK,jobs.amazon.co.uk,Amazon RSA 2048 M01,2026-02-25
+amazon.joburg,3.126.5.188,TLS ERROR,,,
+amazon.kaufen,18.185.24.46,TLS ERROR,,,
+amazon.juegos,18.185.24.46,TLS ERROR,,,
+amazon.irish,3.71.139.153,TLS ERROR,,,
+amazon.investments,3.126.5.188,TLS ERROR,,,
+amazon.ke,18.185.24.46,TLS ERROR,,,
+amazon.io,15.197.156.59,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.jp,13.248.223.21,OK,forecasting-fe.amazon.com,Amazon RSA 2048 M02,2025-09-20
+amazon.kitchen,18.185.24.46,TLS ERROR,,,
+amazon.koeln,3.71.139.153,TLS ERROR,,,
+amazon.ki,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.kg,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.la,3.126.5.188,TLS ERROR,,,
+amazon.krd,3.126.5.188,TLS ERROR,,,
+amazon.kn,52.223.38.30,OK,ammzon.com,Amazon RSA 2048 M02,2025-11-25
+amazon.ky,104.21.16.1,OK,amazon.ky,WE1,2025-07-02
+amazon.kr,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.land,3.71.139.153,TLS ERROR,,,
+amazon.law,64.190.63.222,OK,amazon.law,Encryption Everywhere DV TLS CA - G2,2026-04-20
+amazon.graphics,3.33.139.32,TLS ERROR,,,
+amazon.lease,18.185.24.46,TLS ERROR,,,
+amazon.lawyer,3.71.139.153,TLS ERROR,,,
+amazon.kyoto,118.27.99.156,OK,amazon.kyoto,R10,2025-06-07
+amazon.life,3.71.139.153,TLS ERROR,,,
+amazon.lgbt,3.71.139.153,TLS ERROR,,,
+amazon.lc,3.33.147.88,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.li,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.link,18.185.24.46,TLS ERROR,,,
+amazon.limited,18.185.24.46,TLS ERROR,,,
+amazon.live,18.185.24.46,TLS ERROR,,,
+amazon.london,3.71.139.153,TLS ERROR,,,
+amazon.lat,3.71.139.153,TLS ERROR,,,
+amazon.lol,3.71.139.153,TLS ERROR,,,
+amazon.love,3.126.5.188,TLS ERROR,,,
+amazon.lk,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.holiday,3.33.139.32,TLS ERROR,,,
+amazon.ls,172.67.208.65,OK,amazon.ls,WE1,2025-07-29
+amazon.ltda,3.71.139.153,TLS ERROR,,,
+amazon.luxury,18.185.24.46,TLS ERROR,,,
+amazon.lt,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.lu,15.197.192.1,OK,www.amazon.cz,Amazon RSA 2048 M03,2026-05-08
+amazon.madrid,18.185.24.46,TLS ERROR,,,
+amazon.house,3.33.139.32,TLS ERROR,,,
+amazon.maison,3.71.139.153,TLS ERROR,,,
+amazon.loan,3.71.139.153,TLS ERROR,,,
+amazon.lv,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.llc,3.71.139.153,TLS ERROR,,,
+amazon.management,3.126.5.188,TLS ERROR,,,
+amazon.market,18.185.24.46,TLS ERROR,,,
+amazon.kz,89.35.125.9,OK,Plesk,Plesk,2020-09-08
+amazon.media,3.126.5.188,TLS ERROR,,,
+amazon.mba,18.185.24.46,TLS ERROR,,,
+amazon.md,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.me,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.memorial,3.126.5.188,TLS ERROR,,,
+amazon.men,18.185.24.46,TLS ERROR,,,
+amazon.ly,104.21.16.1,OK,amazon.ly,WE1,2025-07-13
+amazon.mg,18.185.24.46,TLS ERROR,,,
+amazon.miami,3.126.5.188,TLS ERROR,,,
+amazon.makeup,3.71.139.153,TLS ERROR,,,
+amazon.markets,3.126.5.188,TLS ERROR,,,
+amazon.international,3.33.139.32,TLS ERROR,,,
+amazon.mk,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.mo,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.moda,3.71.139.153,TLS ERROR,,,
+amazon.moe,18.185.24.46,TLS ERROR,,,
+amazon.moi,18.185.24.46,TLS ERROR,,,
+amazon.money,3.71.139.153,TLS ERROR,,,
+amazon.mn,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.mobi,76.223.45.104,OK,furnitureramazon.com,Amazon RSA 2048 M03,2025-11-25
+amazon.moscow,18.185.24.46,TLS ERROR,,,
+amazon.mortgage,18.185.24.46,TLS ERROR,,,
+amazon.motorcycles,3.126.5.188,TLS ERROR,,,
+amazon.movie,18.185.24.46,TLS ERROR,,,
+amazon.ml,18.185.24.46,TLS ERROR,,,
+amazon.museum,213.186.33.5,TLS ERROR,,,
+amazon.mv,18.185.24.46,TLS ERROR,,,
+amazon.music,3.71.139.153,TLS ERROR,,,
+amazon.kim,3.33.139.32,TLS ERROR,,,
+amazon.mom,3.71.139.153,TLS ERROR,,,
+amazon.navy,3.126.5.188,TLS ERROR,,,
+amazon.my,15.197.140.28,OK,amazon.my,Amazon RSA 2048 M03,2026-01-11
+amazon.mr,3.126.5.188,TLS ERROR,,,
+amazon.loans,18.185.24.46,TLS ERROR,,,
+amazon.mq,15.197.140.28,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.network,18.185.24.46,TLS ERROR,,,
+amazon.net,209.251.224.2,TLS ERROR,,,
+amazon.nf,3.71.139.153,TLS ERROR,,,
+amazon.news,18.185.24.46,TLS ERROR,,,
+amazon.ni,18.185.24.46,TLS ERROR,,,
+amazon.ninja,3.126.5.188,TLS ERROR,,,
+amazon.no,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.lighting,3.33.139.32,TLS ERROR,,,
+amazon.nl,54.239.33.93,OK,*.db.peg.a2z.com,Amazon RSA 2048 M01,2025-08-11
+amazon.now,18.185.24.46,TLS ERROR,,,
+amazon.nrw,18.185.24.46,TLS ERROR,,,
+amazon.limo,3.33.139.32,TLS ERROR,,,
+amazon.nu,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.nz,18.185.24.46,TLS ERROR,,,
+amazon.observer,3.126.5.188,TLS ERROR,,,
+amazon.nr,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.okinawa,3.71.139.153,TLS ERROR,,,
+amazon.one,3.126.5.188,TLS ERROR,,,
+amazon.onl,3.71.139.153,TLS ERROR,,,
+amazon.online,3.71.139.153,TLS ERROR,,,
+amazon.ooo,3.71.139.153,TLS ERROR,,,
+amazon.ong,162.0.217.30,OK,amazon.ong,Sectigo RSA Domain Validation Secure Server CA,2025-10-05
+amazon.org,35.71.184.76,OK,ammzon.com,Amazon RSA 2048 M02,2025-11-25
+amazon.osaka,18.185.24.46,TLS ERROR,,,
+amazon.paris,18.185.24.46,TLS ERROR,,,
+amazon.ovh,3.126.5.188,TLS ERROR,,,
+amazon.pa,3.126.5.188,TLS ERROR,,,
+amazon.partners,3.71.139.153,TLS ERROR,,,
+amazon.pf,3.126.5.188,TLS ERROR,,,
+amazon.parts,3.71.139.153,TLS ERROR,,,
+amazon.party,18.185.24.46,TLS ERROR,,,
+amazon.marketing,3.33.139.32,TLS ERROR,,,
+amazon.mp,207.171.166.22,TLS ERROR,,,
+amazon.pet,3.71.139.153,TLS ERROR,,,
+amazon.photo,3.71.139.153,TLS ERROR,,,
+amazon.pharmacy,52.84.45.90,OK,amazon.pharmacy,Amazon RSA 2048 M03,2025-08-09
+amazon.pe,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.photos,18.185.24.46,TLS ERROR,,,
+amazon.melbourne,3.33.139.32,TLS ERROR,,,
+amazon.pics,18.185.24.46,TLS ERROR,,,
+amazon.ph,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.pictures,3.126.5.188,TLS ERROR,,,
+amazon.menu,3.33.139.32,TLS ERROR,,,
+amazon.mx,72.21.206.80,TLS ERROR,,,
+amazon.pm,18.185.24.46,TLS ERROR,,,
+amazon.pizza,3.71.139.153,TLS ERROR,,,
+amazon.pl,52.94.222.122,OK,www.amazon.pl,Amazon RSA 2048 M01,2025-07-31
+amazon.plumbing,3.71.139.153,TLS ERROR,,,
+amazon.poker,18.185.24.46,TLS ERROR,,,
+amazon.press,18.185.24.46,TLS ERROR,,,
+amazon.physio,3.71.139.153,TLS ERROR,,,
+amazon.prime,3.126.5.188,OK,amazon.prime,E6,2025-06-30
+amazon.promo,18.185.24.46,TLS ERROR,,,
+amazon.pr,3.33.147.88,OK,your-account.amazon.com,Amazon RSA 2048 M03,2025-11-29
+amazon.properties,3.126.5.188,TLS ERROR,,,
+amazon.protection,3.71.139.153,TLS ERROR,,,
+amazon.pw,3.71.139.153,TLS ERROR,,,
+amazon.pub,3.71.139.153,TLS ERROR,,,
+amazon.pt,67.220.227.69,OK,origin-www-euwest1.amazon.pt,Amazon RSA 2048 M01,2025-12-25
+amazon.place,3.126.5.188,TLS ERROR,,,
+amazon.plus,18.185.24.46,TLS ERROR,,,
+amazon.ps,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.re,18.185.24.46,TLS ERROR,,,
+amazon.quebec,3.71.139.153,TLS ERROR,,,
+amazon.quest,18.185.24.46,TLS ERROR,,,
+amazon.realty,3.126.5.188,TLS ERROR,,,
+amazon.rehab,3.126.5.188,TLS ERROR,,,
+amazon.recipes,18.185.24.46,TLS ERROR,,,
+amazon.reise,3.71.139.153,TLS ERROR,,,
+amazon.reisen,18.185.24.46,TLS ERROR,,,
+amazon.rent,3.126.5.188,TLS ERROR,,,
+amazon.nagoya,3.33.139.32,TLS ERROR,,,
+amazon.repair,3.71.139.153,TLS ERROR,,,
+amazon.rentals,3.71.139.153,TLS ERROR,,,
+amazon.review,3.71.139.153,TLS ERROR,,,
+amazon.report,18.185.24.46,TLS ERROR,,,
+amazon.rest,18.185.24.46,TLS ERROR,,,
+amazon.pk,35.71.184.76,OK,ammzon.com,Amazon RSA 2048 M02,2025-11-25
+amazon.racing,3.126.5.188,TLS ERROR,,,
+amazon.rodeo,3.71.139.153,TLS ERROR,,,
+amazon.ng,137.184.98.235,TLS ERROR,,,
+amazon.rip,18.185.24.46,TLS ERROR,,,
+amazon.rocks,3.126.5.188,TLS ERROR,,,
+amazon.ro,15.197.192.1,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.productions,3.126.5.188,TLS ERROR,,,
+amazon.rs,3.33.230.83,OK,www.amazon.cz,Amazon RSA 2048 M03,2026-05-08
+amazon.ryukyu,3.71.139.153,TLS ERROR,,,
+amazon.ruhr,3.126.5.188,TLS ERROR,,,
+amazon.run,3.71.139.153,TLS ERROR,,,
+amazon.republican,3.126.5.188,TLS ERROR,,,
+amazon.nyc,3.33.139.32,TLS ERROR,,,
+amazon.reviews,3.71.139.153,TLS ERROR,,,
+amazon.sa,52.95.123.165,OK,www.amazon.sa,Amazon RSA 2048 M01,2025-07-25
+amazon.rw,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.sale,18.185.24.46,TLS ERROR,,,
+amazon.salon,3.126.5.188,TLS ERROR,,,
+amazon.sarl,3.126.5.188,TLS ERROR,,,
+amazon.school,3.71.139.153,TLS ERROR,,,
+amazon.schule,3.126.5.188,TLS ERROR,,,
+amazon.sc,3.71.139.153,TLS ERROR,,,
+amazon.science,18.161.111.29,OK,www.amazon.science,Amazon RSA 2048 M02,2026-03-07
+amazon.se,52.95.123.232,OK,www.amazon.se,Amazon RSA 2048 M01,2025-07-24
+amazon.sd,184.154.215.138,OK,*.amazon.sd,R10,2025-06-27
+amazon.select,3.126.5.188,TLS ERROR,,,
+amazon.saarland,3.71.139.153,TLS ERROR,,,
+amazon.services,3.126.5.188,TLS ERROR,,,
+amazon.restaurant,18.185.24.46,TLS ERROR,,,
+amazon.sexy,3.71.139.153,TLS ERROR,,,
+amazon.sh,15.197.156.59,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.show,3.126.5.188,TLS ERROR,,,
+amazon.shoes,18.185.24.46,TLS ERROR,,,
+amazon.site,18.185.24.46,TLS ERROR,,,
+amazon.photography,3.33.139.32,TLS ERROR,,,
+amazon.singles,3.71.139.153,TLS ERROR,,,
+amazon.si,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.sg,15.197.251.41,OK,amazon.sg,Amazon RSA 2048 M02,2026-03-07
+amazon.pink,3.33.139.32,TLS ERROR,,,
+amazon.skin,3.126.5.188,TLS ERROR,,,
+amazon.software,18.185.24.46,TLS ERROR,,,
+amazon.pn,3.33.139.32,TLS ERROR,,,
+amazon.sn,35.71.184.76,OK,www.amazonmembers.com,Amazon RSA 2048 M02,2025-11-25
+amazon.so,3.126.5.188,TLS ERROR,,,
+amazon.soccer,18.185.24.46,TLS ERROR,,,
+amazon.solutions,3.71.139.153,TLS ERROR,,,
+amazon.soy,3.126.5.188,TLS ERROR,,,
+amazon.space,18.185.24.46,TLS ERROR,,,
+amazon.spot,3.126.5.188,TLS ERROR,,,
+amazon.srl,18.185.24.46,TLS ERROR,,,
+amazon.shop,3.126.5.188,TLS ERROR,,,
+amazon.ski,3.71.139.153,TLS ERROR,,,
+amazon.supply,3.126.5.188,TLS ERROR,,,
+amazon.store,18.185.24.46,TLS ERROR,,,
+amazon.studio,3.71.139.153,TLS ERROR,,,
+amazon.study,3.126.5.188,TLS ERROR,,,
+amazon.qpon,3.33.139.32,TLS ERROR,,,
+amazon.supplies,3.126.5.188,TLS ERROR,,,
+amazon.support,3.71.139.153,TLS ERROR,,,
+amazon.sydney,18.185.24.46,TLS ERROR,,,
+amazon.surf,18.185.24.46,TLS ERROR,,,
+amazon.sv,3.126.5.188,TLS ERROR,,,
+amazon.sx,18.185.24.46,TLS ERROR,,,
+amazon.systems,18.185.24.46,TLS ERROR,,,
+amazon.taipei,18.185.24.46,TLS ERROR,,,
+amazon.tatar,18.185.24.46,TLS ERROR,,,
+amazon.red,3.33.139.32,TLS ERROR,,,
+amazon.team,3.71.139.153,TLS ERROR,,,
+amazon.taxi,3.126.5.188,TLS ERROR,,,
+amazon.technology,18.185.24.46,TLS ERROR,,,
+amazon.tg,3.126.5.188,TLS ERROR,,,
+amazon.tf,15.197.156.59,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.tennis,3.126.5.188,TLS ERROR,,,
+amazon.theater,3.71.139.153,TLS ERROR,,,
+amazon.surgery,3.71.139.153,TLS ERROR,,,
+amazon.theatre,3.71.139.153,TLS ERROR,,,
+amazon.tienda,3.71.139.153,TLS ERROR,,,
+amazon.tickets,3.126.5.188,TLS ERROR,,,
+amazon.tax,3.71.139.153,TLS ERROR,,,
+amazon.tirol,18.185.24.46,TLS ERROR,,,
+amazon.shopping,3.126.5.188,TLS ERROR,,,
+amazon.tj,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.today,18.185.24.46,TLS ERROR,,,
+amazon.tk,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.th,3.126.5.188,TLS ERROR,,,
+amazon.tools,3.126.5.188,TLS ERROR,,,
+amazon.tm,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.to,52.223.38.30,OK,www.amazonmembers.com,Amazon RSA 2048 M02,2025-11-25
+amazon.swiss,3.71.139.153,TLS ERROR,,,
+amazon.tips,3.126.5.188,TLS ERROR,,,
+amazon.tires,3.126.5.188,TLS ERROR,,,
+amazon.tours,3.71.139.153,TLS ERROR,,,
+amazon.town,18.185.24.46,TLS ERROR,,,
+amazon.toys,18.185.24.46,TLS ERROR,,,
+amazon.trade,18.185.24.46,TLS ERROR,,,
+amazon.travel,64.190.63.222,OK,amazon.travel,Encryption Everywhere DV TLS CA - G2,2026-04-20
+amazon.td,18.185.24.46,TLS ERROR,,,
+amazon.tokyo,18.185.24.46,TLS ERROR,,,
+amazon.ua,3.33.230.83,OK,amazonglobal.de,Amazon RSA 2048 M02,2026-01-08
+amazon.ug,3.126.5.188,TLS ERROR,,,
+amazon.tv,3.33.147.88,OK,www.egghead.com,Amazon RSA 2048 M02,2025-06-03
+amazon.tw,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.uy,104.21.64.1,OK,amazon.uy,WE1,2025-06-22
+amazon.shiksha,3.33.139.32,TLS ERROR,,,
+amazon.university,3.126.5.188,TLS ERROR,,,
+amazon.us,18.185.24.46,TLS ERROR,,,
+amazon.training,3.71.139.153,TLS ERROR,,,
+amazon.trading,3.126.5.188,TLS ERROR,,,
+amazon.tattoo,18.185.24.46,TLS ERROR,,,
+amazon.tl,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.vg,15.197.156.59,OK,aws.amazon.co.uk,Amazon RSA 2048 M03,2026-05-15
+amazon.versicherung,18.185.24.46,TLS ERROR,,,
+amazon.uz,35.71.184.76,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.ventures,3.126.5.188,TLS ERROR,,,
+amazon.vet,3.126.5.188,TLS ERROR,,,
+amazon.video,18.185.24.46,TLS ERROR,,,
+amazon.vip,18.185.24.46,TLS ERROR,,,
+amazon.solar,3.33.139.32,TLS ERROR,,,
+amazon.villas,3.126.5.188,TLS ERROR,,,
+amazon.vin,3.71.139.153,TLS ERROR,,,
+amazon.st,87.238.85.130,TLS ERROR,,,
+amazon.vision,18.185.24.46,TLS ERROR,,,
+amazon.vlaanderen,18.185.24.46,TLS ERROR,,,
+amazon.vodka,3.71.139.153,TLS ERROR,,,
+amazon.vn,3.33.147.88,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.vegas,18.185.24.46,TLS ERROR,,,
+amazon.voyage,3.71.139.153,TLS ERROR,,,
+amazon.vu,3.126.5.188,TLS ERROR,,,
+amazon.watch,3.126.5.188,TLS ERROR,,,
+amazon.tt,15.197.140.28,OK,amazonfashion.com,Amazon RSA 2048 M03,2025-11-29
+amazon.vi,18.185.24.46,TLS ERROR,,,
+amazon.tc,72.21.206.80,TLS ERROR,,,
+amazon.website,3.71.139.153,TLS ERROR,,,
+amazon.watches,3.126.5.188,TLS ERROR,,,
+amazon.webcam,3.126.5.188,TLS ERROR,,,
+amazon.wedding,18.185.24.46,TLS ERROR,,,
+amazon.wf,18.185.24.46,TLS ERROR,,,
+amazon.whoswho,18.185.24.46,TLS ERROR,,,
+amazon.wien,3.71.139.153,TLS ERROR,,,
+amazon.wine,3.71.139.153,TLS ERROR,,,
+amazon.win,18.185.24.46,TLS ERROR,,,
+amazon.vacations,3.71.139.153,TLS ERROR,,,
+amazon.world,18.185.24.46,TLS ERROR,,,
+amazon.viajes,3.126.5.188,TLS ERROR,,,
+amazon.wang,3.126.5.188,TLS ERROR,,,
+amazon.wtf,3.71.139.153,TLS ERROR,,,
+amazon.xyz,18.185.24.46,TLS ERROR,,,
+amazon.work,15.197.171.15,OK,acx.audible.com,Amazon RSA 2048 M02,2026-05-07
+amazon.yoga,3.126.5.188,TLS ERROR,,,
+amazon.yachts,18.185.24.46,TLS ERROR,,,
+amazon.yokohama,3.126.5.188,TLS ERROR,,,
+amazon.yt,3.126.5.188,TLS ERROR,,,
+amazon.voting,64.190.63.222,OK,amazon.voting,Encryption Everywhere DV TLS CA - G2,2026-04-20
+amazon.voto,3.126.5.188,TLS ERROR,,,
+amazon.zone,3.126.5.188,TLS ERROR,,,
+amazon.wales,3.71.139.153,TLS ERROR,,,
+amazon.works,3.71.139.153,TLS ERROR,,,
+amazon.xin,172.67.211.28,OK,amazon.xin,WE1,2025-07-17
+amazon.ws,52.223.38.30,OK,pepsistuff.amazon.com,Amazon RSA 2048 M03,2025-12-01
+amazon.uno,3.33.139.32,TLS ERROR,,,
+amazon.vc,164.152.28.181,TLS ERROR,,,

@@ -3,6 +3,7 @@ package main
 import (
 	"crypto/tls"
 	"crypto/x509"
+	"encoding/csv"
 	"fmt"
 	"io"
 	"net"
@@ -60,12 +61,32 @@ func main() {
 	wg.Wait()
 	close(results)
 
-	fmt.Printf("| %-30s | %-15s | %-10s | %-30s |\n", "Domain", "IP", "Status", "Subject")
-	fmt.Println(strings.Repeat("-", 100))
+	exportToCsv(baseDomain, results)
+}
+
+func exportToCsv(baseDomain string, results chan ScanResult) {
+	fileName := fmt.Sprintf("%s.csv", baseDomain)
+	file, err := os.Create(fileName)
+	if err != nil {
+		fmt.Printf("Failed to create file: %v\n", err)
+		return
+	}
+	defer file.Close()
+
+	writer := csv.NewWriter(file)
+	defer writer.Flush()
+
+	writer.Write([]string{"Domain", "IP", "Status", "Subject", "Issuer", "ValidTo"})
 
 	for res := range results {
-		fmt.Printf("| %-30s | %-15s | %-10s | %-30s |\n", res.Domain, res.IP, res.Status, res.Subject)
+		if res.Status == "NXDOMAIN" {
+			fmt.Printf("Domain %s does not exist\n", res.Domain)
+			continue // skip non-existent domains
+		}
+		writer.Write([]string{res.Domain, res.IP, res.Status, res.Subject, res.Issuer, res.ValidTo})
 	}
+
+	fmt.Printf("Results exported to %s\n", fileName)
 }
 
 func fetchTLDs() ([]string, error) {
