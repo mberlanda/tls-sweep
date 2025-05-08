@@ -19,7 +19,9 @@ import (
 var logger = log.New(os.Stdout, "", log.Ldate|log.Ltime|log.Lshortfile)
 
 const ianaTLDListURL = "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"
+const cacheDir = ".cache"
 
+var cacheFile = fmt.Sprintf("%s/tlds.cache", cacheDir)
 var maxWorkers = 2 * runtime.NumCPU()
 
 type ScanResult struct {
@@ -38,9 +40,14 @@ func main() {
 	}
 	baseDomain := os.Args[1]
 
-	tlds, err := fetchTLDs()
+	forceRefresh := false
+	if len(os.Args) > 2 && os.Args[2] == "--force-tld-refresh" {
+		forceRefresh = true
+	}
+
+	var tlds, err = loadTLDs(!forceRefresh)
 	if err != nil {
-		panic(err)
+		logger.Fatalf("Failed to load TLDs: %v\n", err)
 	}
 
 	tasks := make(chan string, len(tlds))
@@ -81,18 +88,66 @@ func exportToCsv(baseDomain string, results chan ScanResult) {
 
 	writer.Write([]string{"Domain", "IP", "Status", "Subject", "Issuer", "ValidTo"})
 
+	var DomainsNotFound []string
 	for res := range results {
 		if res.Status == "NXDOMAIN" {
-			logger.Printf("Domain %s does not exist\n", res.Domain)
+			// After changing the logger implementation, this line may be a debug log
+			// logger.Printf("Domain %s does not exist\n", res.Domain)
+			DomainsNotFound = append(DomainsNotFound, res.Domain)
 			continue // skip non-existent domains
 		}
 		writer.Write([]string{res.Domain, res.IP, res.Status, res.Subject, res.Issuer, res.ValidTo})
 	}
 
+	logger.Printf("Found %d domains that do not exist: ", len(DomainsNotFound))
+	logger.Printf("Domains not found: ", strings.Join(DomainsNotFound, ", "))
+
 	logger.Printf("Results exported to %s\n", fileName)
 }
 
+func loadTLDs(useCache bool) ([]string, error) {
+	const cache_sep = "\t"
+
+	var tlds []string
+	var err error
+
+	if useCache {
+		if _, err := os.Stat(cacheFile); err == nil {
+			logger.Println("Loading TLDs from cache...")
+			file, err := os.Open(cacheFile)
+			if err == nil {
+				defer file.Close()
+				content, _ := io.ReadAll(file)
+				tlds = strings.Split(string(content), cache_sep)
+				if len(tlds) > 0 {
+					logger.Println("TLDs loaded from cache.")
+				}
+			}
+		}
+	}
+
+	if len(tlds) == 0 {
+		logger.Println("Fetching TLDs from IANA...")
+		tlds, err = fetchTLDs()
+		if err != nil {
+			return nil, err
+		}
+
+		if err := os.MkdirAll(cacheDir, os.ModePerm); err == nil {
+			file, err := os.Create(cacheFile)
+			if err == nil {
+				defer file.Close()
+				file.WriteString(strings.Join(tlds, cache_sep))
+				logger.Println("TLDs cached.")
+			}
+		}
+	}
+	return tlds, err
+}
+
 func fetchTLDs() ([]string, error) {
+	var tlds []string
+
 	resp, err := http.Get(ianaTLDListURL)
 	if err != nil {
 		return nil, fmt.Errorf("failed to fetch TLDs: %v", err)
@@ -101,8 +156,7 @@ func fetchTLDs() ([]string, error) {
 
 	body, _ := io.ReadAll(resp.Body)
 	lines := strings.Split(string(body), "\n")
-	var tlds []string
-	for _, line := range lines[1:] { // skip first line
+	for _, line := range lines[1:] {
 		tld := strings.ToLower(strings.TrimSpace(line))
 		if len(tld) > 0 {
 			tlds = append(tlds, tld)
